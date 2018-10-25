@@ -1,6 +1,6 @@
 ---
-title: "blahhg-post"
-date: 2018-10-23
+title: "blahhgpost"
+date: 2018-10-24
 ---
 
 ## new draft
