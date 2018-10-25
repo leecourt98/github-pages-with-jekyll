@@ -1,5 +1,5 @@
 ---
-title: blahhg post
+title: "blahhg-post"
 date: 2018-10-23
 ---
 
